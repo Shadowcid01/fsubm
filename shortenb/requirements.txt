@@ -1,0 +1,12 @@
+# --- For-Bot-Working --------- #
+pyrofork
+TgCrypto
+humanize
+# --- For-Database ------------ #
+pymongo
+dnspython
+# --- For-Web-Response ------- #
+flask
+gunicorn
+aiohttp
+pyshorteners
